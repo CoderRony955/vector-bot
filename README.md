@@ -13,7 +13,7 @@ A personal discord bot that provides fast and accurate information using the **G
 
 1. Clone the repository: 
 ```
-git clone https://github.com/VectorBot/Vector.git
+git clone https://github.com/CoderRony955/vector-bot.git
 ```
 2. Install dependencies:
 ```
